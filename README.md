@@ -43,4 +43,5 @@ $ cd Executable
 - Downloaded songs will be stored in [Music](/Executable/Music) Folder in [Executable](/Executable)
 
 
+----
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-akashksinghal-red)](https://github.com/akashksinghal)
