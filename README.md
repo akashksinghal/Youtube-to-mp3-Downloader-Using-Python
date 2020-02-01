@@ -3,7 +3,7 @@
 ## Step - 1 : Clone or Download
 
 ```sh
-$ git clone https://github.com/akashksinghal/Youtube-to-mp3-Downloader-Using-Python-Script.git
+$ git clone https://github.com/akashksinghal/Youtube-to-mp3-Downloader-Using-Python.git
 ```
 
 ## Step - 2 : Install the libraries
