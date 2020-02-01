@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 ## Step - 3 : Open and Edit SongsList.txt
 
  - Copy and Paste all the URLs of songs in SongsList.txt
- - There are some sample URLs in SongsList.txt 
+ - There are some sample URLs in [SongsList.txt](/SongsList.txt)
 
 ## Step - 4 : Run the Python Script
 ```sh
@@ -35,7 +35,7 @@ $ python main.py
 
 ### Using .exe Files
 
-- Open [Executable](/Executable) and Paste [SongsList.txt](/SongsLists.txt) in it.
+- Open [Executable](/Executable) and Paste in [SongsList.txt](/SongsList.txt) in it.
 ```sh
 $ cd Executable
 ````
