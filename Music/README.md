@@ -1,1 +1,3 @@
-### All the songs will be downloaded in this folder
+### MUSIC
+
+- IF PYTHON SCRIPT IS USED THEN ALL THE SONGS WILL BE DOWNLOADED IN THIS FOLDER
