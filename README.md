@@ -12,7 +12,6 @@ $ git clone https://github.com/akashksinghal/Youtube-to-mp3-Downloader-Using-Pyt
 $ cd Youtube-to-mp3-Downloader-Using-Python-Script
 $ pip install -r requirements.txt
 ```
-  
   - Copy all the files from [Files](/Files) to the <b>Scripts</b> Folder in Python
   
   Example : 'C:\Python\Scripts\'
@@ -27,7 +26,6 @@ $ pip install -r requirements.txt
 $ cd Youtube-to-mp3-Downloader-Using-Python-Script
 $ python main.py
 ```
-
 - All the songs in the SongsList.txt will be Downloaded to [Music](/Music) Folder 
 - Open Music Folder and Play the Mp3 tracks.
 
@@ -35,9 +33,11 @@ $ python main.py
 
 ### Using .exe Files
 
-- Open [Executable](/Executable) and Paste in [SongsList.txt](/SongsList.txt) in it.
+- Open [Executable](/Executable) 
 ```sh
 $ cd Executable
 ````
-- Double-Click main.exe and songs will be Downloaded
-- Downloaded songs will be stored in Music Folder in Executable
+- Copy and Paste all the URLs of songs in SongsList.txt
+
+- Double-Click main.exe and All songs in [SongsList.txt](/Executable/SongsList.txt) will be Downloaded
+- Downloaded songs will be stored in [Music](/Executable/Music) Folder in [Executable](/Executable)
