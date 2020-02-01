@@ -40,3 +40,4 @@ $ python main.py
 $ cd Executable
 ````
 - Double-Click main.exe and songs will be Downloaded
+- Downloaded songs will be stored in Music Folder in Executable
