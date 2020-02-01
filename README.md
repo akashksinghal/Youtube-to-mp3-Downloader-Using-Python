@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 ```
   
   - Copy all the files from [Files](/Files) to the <b>Scripts</b> Folder in Python
-  ---
+  
   Example : 'C:\Python\Scripts\'
   
 
