@@ -16,8 +16,27 @@ $ pip install -r requirements.txt
   - Copy all the files from [Files](/Files) to the <b>Scripts</b> Folder in Python
   
   Example : 'C:\Python\Scripts\'
-  
 
+## Step - 3 : Open and Edit SongsList.txt
 
+ - Copy and Paste all the URLs of songs in SongsList.txt
+ - There are some sample URLs in SongsList.txt 
 
+## Step - 4 : Run the Python Script
+```sh
+$ cd Youtube-to-mp3-Downloader-Using-Python-Script
+$ python main.py
+```
 
+- All the songs in the SongsList.txt will be Downloaded to [Music](/Music) Folder 
+- Open Music Folder and Play the Mp3 tracks.
+
+## Alternative
+
+### Using .exe Files
+
+- Open [Executable](/Executable) and Paste [SongsList.txt](/SongsLists.txt) in it.
+```sh
+$ cd Executable
+````
+- Double-Click main.exe and songs will be Downloaded
